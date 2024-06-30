@@ -4,24 +4,7 @@ from pyspark.sql import SparkSession
 
 spark = SparkSession.builder.appName("map_tranformations").getOrCreate()
 
-# implement the x2+2x+1
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#implement the x2+2x+1
 
 
 """ 
